@@ -6,14 +6,14 @@ structure and content is heavily inspired by the
 YouTube series by **Aditya Verma**.
 
 ## Problems
-| Sr No | Problem                                                                                            | Time Complexity | Space Complexity | Variables                                             |
-| ----: | -------------------------------------------------------------------------------------------------- | --------------- | ---------------- | ----------------------------------------------------- |
-|     1 | [Knapsack (Recursive)](/src/io/github/aniket_kr/dp/knapsack/RecursiveKnapsack.java)                | `O(2^n)`        | `O(1)`           | `n` = number of items                                 |
-|     2 | [Knapsack (Top Down, Memoization)](/src/io/github/aniket_kr/dp/knapsack/TopDownKnapsack.java)      | `O(n*w)`        | `O(n*w)`         | `n` = number of items <br> `w` = capacity of knapsack |
-|     3 | [Knapsack (Bottom Up, Tabulation)](/src/io/github/aniket_kr/dp/knapsack/BottomUpKnapsack.java)     | `O(n*w)`        | `O(n*w)`         | `n` = number of items <br> `w` = capacity of knapsack |
-|     4 | [Subset Sum (Recursive)](/src/io/github/aniket_kr/dp/subsetsum/SubsetSum.java)                     | `O(2^n)`        | `O(1)`           | `n` = length of `nums[]`                              |
-|     5 | [Subset Sum (Top Down, Memoization)](/src/io/github/aniket_kr/dp/subsetsum/TopDownSubsetSum.java)  | `O(n*t)`        | `O(n*t)`         | `n` = length of `nums[]` <br> `t` = target sum        |
-|     6 | [Subset Sum (Bottom Up, Tabulation)](/src/io/github/aniket_kr/dp/subsetsum/BottomUpSubsetSum.java) | `O(n*t)`        | `O(n*t)`         | `n` = length of `nums[]` <br> `t` = target sum        |
+| Sr No | Problem                                                                                                 | Time Complexity | Space Complexity | Variables                                             |
+| ----: | ------------------------------------------------------------------------------------------------------- | --------------- | ---------------- | ----------------------------------------------------- |
+|     1 | [Knapsack <br> (Recursive)](/src/io/github/aniket_kr/dp/knapsack/RecursiveKnapsack.java)                | `O(2^n)`        | `O(1)`           | `n` = number of items                                 |
+|     2 | [Knapsack <br> (Top Down, Memoization)](/src/io/github/aniket_kr/dp/knapsack/TopDownKnapsack.java)      | `O(n*w)`        | `O(n*w)`         | `n` = number of items <br> `w` = capacity of knapsack |
+|     3 | [Knapsack <br> (Bottom Up, Tabulation)](/src/io/github/aniket_kr/dp/knapsack/BottomUpKnapsack.java)     | `O(n*w)`        | `O(n*w)`         | `n` = number of items <br> `w` = capacity of knapsack |
+|     4 | [Subset Sum <br> (Recursive)](/src/io/github/aniket_kr/dp/subsetsum/SubsetSum.java)                     | `O(2^n)`        | `O(1)`           | `n` = length of `nums[]`                              |
+|     5 | [Subset Sum <br> (Top Down, Memoization)](/src/io/github/aniket_kr/dp/subsetsum/TopDownSubsetSum.java)  | `O(n*t)`        | `O(n*t)`         | `n` = length of `nums[]` <br> `t` = target sum        |
+|     6 | [Subset Sum <br> (Bottom Up, Tabulation)](/src/io/github/aniket_kr/dp/subsetsum/BottomUpSubsetSum.java) | `O(n*t)`        | `O(n*t)`         | `n` = length of `nums[]` <br> `t` = target sum        |
 
 
 ---

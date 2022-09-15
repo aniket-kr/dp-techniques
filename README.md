@@ -21,6 +21,7 @@ YouTube series by **Aditya Verma**.
 |    11 | [Count Subset Sum <br> (Recursive)](/src/io/github/aniket_kr/dp/countsubsetsum/RecursiveCountSubsetSum.java)                                        | `O(2^n)`        | `O(n)`           | `n` = length of `nums[]`                              |
 |    12 | [Count Subset Sum <br> (Top Down, Memoization)](/src/io/github/aniket_kr/dp/countsubsetsum/TopDownCountSubsetSum.java)                              | `O(n*s)`        | `O(n*s)`         | `n` = length of `nums[]` <br> `s` = target sum        |
 |    13 | [Count Subset Sum <br> (Bottom Up, Tabulation)](/src/io/github/aniket_kr/dp/countsubsetsum/BottomUpCountSubsetSum.java)                             | `O(n*s)`        | `O(n*s)`         | `n` = length of `nums[]` <br> `s` = target sum        |
+|    14 | [Min Subset Sum Difference <br> (via Subset Sum)](/src/io/github/aniket_kr/dp/minsubsetsumdifference/SubsetSumMinSubsetSumDifference.java)          | `O(n*t + t)`    | `O(n*t + t)`     | `n` = length of `nums[]` <br> `t` = target sum        |
 
 
 ---
